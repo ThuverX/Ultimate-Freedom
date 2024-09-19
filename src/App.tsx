@@ -1,4 +1,3 @@
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { ThemeProvider } from './components/theme-provider'
 import { Carousel, CarouselContent, CarouselItem, useCarousel } from '@/components/ui/carousel'
 import { useEffect, useState } from 'react'
