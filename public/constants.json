@@ -1,0 +1,52 @@
+{
+    "sidearms": {
+        "P-2 Peacemaker": "https://helldivers.wiki.gg/images/b/bd/P-2_Peacemaker_Weapon_Icon.png",
+        "P-19 Redeemer": "https://helldivers.wiki.gg/images/4/4d/P-19_Redeemer_Weapon_Icon.png",
+        "P-113 Verdict": "https://helldivers.wiki.gg/images/3/30/P-113_Verdict_Weapon_Icon.png",
+        "P-4 Senator": "https://helldivers.wiki.gg/images/e/e4/P-4_Senator_Weapon_Icon.png",
+        "SG-22 Bushwhacker": "https://helldivers.wiki.gg/images/f/fc/SG-22_Bushwhacker_Weapon_Icon.png",
+        "LAS-7 Dagger": "https://helldivers.wiki.gg/images/3/38/LAS-7_Dagger_Weapon_Icon.png",
+        "GP-31 Grenade Pistol": "https://helldivers.wiki.gg/images/4/48/GP-31_Grenade_Pistol_Weapon_Icon.png",
+        "P-72 Crisper": "https://helldivers.wiki.gg/images/6/62/P-72_Crisper_Weapon_Icon.png"
+    },
+    "primaries": {
+        "AR-23 Liberator": "https://helldivers.wiki.gg/images/f/f2/AR-23_Liberator_Weapon_Icon.png",
+        "AR-23P Liberator Penetrator": "https://helldivers.wiki.gg/images/f/fa/AR-23P_Liberator_Penetrator_Weapon_Icon.png",
+        "AR-23C Liberator Concussive": "https://helldivers.wiki.gg/images/c/ce/AR-23C_Liberator_Concussive_Weapon_Icon.png",
+        "AR-23A Liberator Carbine": "https://helldivers.wiki.gg/images/7/7e/AR-23A_Liberator_Carbine_Weapon_Icon.png",
+        "AR-61 Tenderizer": "https://helldivers.wiki.gg/images/0/0c/AR-61_Tenderizer_Weapon_Icon.png",
+        "BR-14 Adjudicator": "https://helldivers.wiki.gg/images/8/8b/BR-14_Adjudicator_Weapon_Icon.png",
+        "R-63 Diligence": "https://helldivers.wiki.gg/images/c/c0/R-63_Diligence_Weapon_Icon.png",
+        "R-63CS Diligence Counter Sniper": "https://helldivers.wiki.gg/images/f/f6/R-63CS_Diligence_Counter_Sniper_Weapon_Icon.png",
+        "MP-98 Knight": "https://helldivers.wiki.gg/images/2/20/MP-98_Knight_Weapon_Icon.png",
+        "SMG-37 Defender": "https://helldivers.wiki.gg/images/1/10/SMG-37_Defender_Weapon_Icon.png",
+        "SMG-72 Pummeler": "https://helldivers.wiki.gg/images/e/e6/SMG-72_Pummeler_Weapon_Icon.png",
+        "SG-8 Punisher": "https://helldivers.wiki.gg/images/f/f0/SG-8_Punisher_Weapon_Icon.png",
+        "SG-8S Slugger": "https://helldivers.wiki.gg/images/b/bd/SG-8S_Slugger_Weapon_Icon.png",
+        "SG-451 Cookout": "https://helldivers.wiki.gg/images/9/9d/SG-451_Cookout_Weapon_Icon.png",
+        "SG-225 Breaker": "https://helldivers.wiki.gg/images/7/74/SG-225_Breaker_Weapon_Icon.png",
+        "SG-225SP Breaker Spray & Pray": "https://helldivers.wiki.gg/images/b/bc/SG-225SP_Breaker_Spray%26Pray_Weapon_Icon.png",
+        "SG-225IE Breaker Incendiary": "https://helldivers.wiki.gg/images/2/22/SG-225IE_Breaker_Incendiary_Weapon_Icon.png",
+        "CB-9 Exploding Crossbow": "https://helldivers.wiki.gg/images/e/e0/CB-9_Exploding_Crossbow_Weapon_Icon.png",
+        "JAR-5 Dominator": "https://helldivers.wiki.gg/images/d/d5/JAR-5_Dominator_Weapon_Icon.png",
+        "R-36 Eruptor": "https://helldivers.wiki.gg/images/5/53/R-36_Eruptor_Weapon_Icon.png",
+        "SG-8P Punisher Plasma": "https://helldivers.wiki.gg/images/0/03/SG-8P_Punisher_Plasma_Weapon_Icon.png",
+        "ARC-12 Blitzer": "https://helldivers.wiki.gg/images/c/c9/ARC-12_Blitzer_Weapon_Icon.png",
+        "LAS-5 Scythe": "https://helldivers.wiki.gg/images/f/fb/LAS-5_Scythe_Weapon_Icon.png",
+        "LAS-16 Sickle": "https://helldivers.wiki.gg/images/b/b0/LAS-16_Sickle_Weapon_Icon.png",
+        "PLAS-1 Scorcher": "https://helldivers.wiki.gg/images/1/11/PLAS-1_Scorcher_Weapon_Icon.png",
+        "PLAS-101 Purifier": "https://helldivers.wiki.gg/images/d/d1/PLAS-101_Purifier_Weapon_Icon.png",
+        "FLAM-66 Torcher": "https://helldivers.wiki.gg/images/5/53/FLAM-66_Torcher_Weapon_Icon.png"
+    },
+    "grenades": {
+        "G-6 Frag": "https://helldivers.wiki.gg/images/b/b7/G-6_Frag_Grenade_Icon.png",
+        "G-12 High Explosive": "https://helldivers.wiki.gg/images/7/7d/G-12_High_Explosive_Grenade_Icon.png",
+        "G-10 Incendiary": "https://helldivers.wiki.gg/images/5/59/G-10_Incendiary_Grenade_Icon.png",
+        "G-16 Impact": "https://helldivers.wiki.gg/images/6/63/G-16_Impact_Grenade_Icon.png",
+        "G-13 Incendiary Impact": "https://helldivers.wiki.gg/images/0/08/G-13_Incendiary_Impact_Grenade_Icon.png",
+        "G-23 Stun": "https://helldivers.wiki.gg/images/3/36/G-23_Stun_Grenade_Icon.png",
+        "G-3 Smoke": "https://helldivers.wiki.gg/images/6/64/G-3_Smoke_Grenade_Icon.png",
+        "G-123 Thermite": "https://helldivers.wiki.gg/images/9/9e/G-123_Thermite_Grenade_Icon.png",
+        "K-2 Throwing Knife": "https://helldivers.wiki.gg/images/c/cb/K-2_Throwing_Knife_Throwable_Icon.png"
+    }
+}
