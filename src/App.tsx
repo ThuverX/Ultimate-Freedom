@@ -69,7 +69,7 @@ function App() {
     }
 
     useEffect(() => {
-        fetch('/constants.json')
+        fetch('constants.json')
             .then((r) => r.json())
             .then(setData)
     }, [])
